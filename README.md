@@ -1,2 +1,2 @@
 # Dental-Clinic
-internship project
+internship project(8th sem)
