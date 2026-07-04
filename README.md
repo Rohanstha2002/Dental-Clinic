@@ -1,1 +1,2 @@
 # Dental-Clinic
+internship project
